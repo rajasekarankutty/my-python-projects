@@ -1,6 +1,5 @@
-l1=[10,20,30,40,50,60]
-print(l1.reverse)
-print(sort(l1))
-print(min(l1))
-print(max(l1))
-print(sum(l1))
+t1=(10,20)
+t2=(30,40,50)
+t3=t1+t2
+print(t3)
+print(t3*3)
